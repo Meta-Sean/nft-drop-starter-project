@@ -1,0 +1,21 @@
+{
+  "name": "Fake Ape 1",
+  "symbol": "FAPE",
+  "description": "Collection of 3 fake apes on the solana dev blockchain",
+  "seller_fee_basis_points": 500,
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HjrEk3UwbSNgdL3yyTeeSCTtyWsCMCUuGc1Qo7qPb7X8",
+        "share": 100
+      }
+    ]
+  }
+}
